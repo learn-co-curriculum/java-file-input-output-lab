@@ -68,6 +68,7 @@ should have the following output printed to the console:
 Apples
 Bananas
 Cookies
+
 ```
 
 ## Unit Tests
