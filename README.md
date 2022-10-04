@@ -64,7 +64,7 @@ public class GroceryListDriver {
 Once you have implemented the `readFile()` and `writeFile()` methods, you
 should have the following output printed to the console:
 
-```plaintext
+```text
 Apples
 Bananas
 Cookies
